@@ -1,3 +1,3 @@
 # eda_forlapdikti
 
-![pt_per_prov](pt_per_prov.PNG)
+![ratio_mhs_dosen](ratio_mhs_dosen.png)
